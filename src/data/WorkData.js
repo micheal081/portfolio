@@ -3,7 +3,7 @@ export const Work = [
     id: 1,
     name: "FINANCIAL MANAGEMENT SYSTEM WITH KEYCLOAK",
     description:
-      "I created a financial management backend application, crafted with Node.js, Nest.js, and TypeScript, leverages Keycloak for robust security. It seamlessly handles financial operations, ensuring data integrity and confidentiality.",
+      "I created a financial management backend application, crafted with Node.js, Nest.js, and TypeScript, leverages Keycloak for robust security.",
     tags: ["NODE.JS", "NESTJS", "TYPESCRIPT", "TYPEORM", "PRISMA", "MYSQL"],
 
     demo: "https://github.com/micheal081/Financial_management_service_with_keycloak",
