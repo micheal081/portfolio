@@ -167,7 +167,7 @@ const Main = () => {
 				</Contact>
 				<BLOG
 					download
-					href={require("../assets/resume/Micheal_software_engineer_resume.pdf").default}>
+					href={require("../assets/resume/Micheal_Resume.pdf").default}>
 					<motion.h2
 						initial={{
 							y: -200,
