@@ -4,8 +4,8 @@ import styled from "styled-components";
 // // tsparticles
 
 // //particle config files
-import configDark from "../config/particlesjs-config.json";
-import configLight from "../config/particlesjs-config-light.json";
+// import configDark from "../config/particlesjs-config.json";
+// import configLight from "../config/particlesjs-config-light.json";
 
 const Box = styled.div`
   position: absolute;

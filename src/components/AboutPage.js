@@ -66,9 +66,8 @@ const AboutPage = () => {
 					<img src={astronaut} alt="spaceman" />
 				</Spaceman>
 				<Main>
-					I am Micheal Ighietsemhe, a backend engineer and an entry level
-					devOps engineer with strengths in NodeJs, NestJs, Typescript
-					and interests in devOps and Blockchain development. I consider myself a grounded
+					I'm Micheal Ighietsemhe, a full-stack engineer and an entry level
+					devOps engineer and interests in devOps and Blockchain development. I consider myself a grounded
 					engineer with an entrepreneurial spirit.
 					<br /> <br />
 					I'm a curious learner and I like trying new things and

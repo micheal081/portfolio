@@ -84,12 +84,12 @@ const MySkillPage = () => {
               Node.Js, PHP, Python, NestJs, Express, Typescript, PostgresSql,
               MySql, MongoDB, DynamoDB, Prisma, TypeORM, Amazon AWS, ETL, Redis,
               Kafka, RabbitMQ, Azure, GCP, Apache, Nginx, Husky, Serverless,
-              GraphQL, Terraform, CI/CD Pipelines, DigitalOcean
+              GraphQL, Terraform, CI/CD Pipelines, DigitalOcean, etc
             </p>
           </Description>
           <Description>
             <strong>Tools</strong>
-            <p>VScode, Github, GitLaab, Codepen etc.</p>
+            <p>Cursor, VScode, Github, Git.</p>
           </Description>
         </Main>
         <Main>
@@ -99,13 +99,14 @@ const MySkillPage = () => {
           <Description>
             <strong>Skills</strong>
             <p>
-              ReactJs, Redux, JavaScript, TypeScript, TailwindCSS, React Native,
-              NextJs, openAI, meta AI, gemini AI, Python, Solidity, TensorFlow, Moralis etc.
+              React Native, Expo, ReactJs, Redux, JavaScript, TypeScript, TailwindCSS,
+              NextJs, LLMs - openAI, meta AI, gemini AI, Groq AI, Python, Solidity, TensorFlow, 
+              Moralis etc.
             </p>
           </Description>
           <Description>
             <strong>Tools</strong>
-            <p>Make, VScode, Remix, Cloud Computing, Microsoft Excel etc.</p>
+            <p>VScode, Cursor, Github, Git.</p>
           </Description>
         </Main>
         <BigTitle text="SKILLS" top="80%" right="30%" />

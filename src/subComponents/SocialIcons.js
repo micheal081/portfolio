@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
-import { Facebook, Github, LinkedIn, Twitter } from "../components/AllSvgs";
+import { Github, LinkedIn, Twitter } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
 
 const Icons = styled.div`
